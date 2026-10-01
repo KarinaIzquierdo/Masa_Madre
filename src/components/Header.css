@@ -1,6 +1,6 @@
 .header {
   position: relative;
-  width: 100%;
+  width: 120%;
   height: 100vh;
   margin-top: 0;
   padding-top: 0;
@@ -83,7 +83,7 @@
 .topic-title {
   font-size: 42px;
   font-weight: 900;
-  color: #F5A623;
+  color: #efae47;
   margin-bottom: 25px;
   line-height: 1;
   font-style: italic;
